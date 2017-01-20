@@ -1,9 +1,9 @@
 //business logic
   var pingPong = function(count) {
     if (count) {
-      var answer = 1;
-      for (var number = 0; number <= count; number+=1) {
-        answer += number + ",";
+      var answer = 0;
+      for (var number = 1; number <= count; number+=1) {
+        answer += number + ", ";
       }
       return answer;
     }
