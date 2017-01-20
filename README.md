@@ -1,12 +1,12 @@
-# _{Ping Pong}_
+# Ping Pong
 
-#### _{Code Review Exercise for Epicodus}, {01.20.2017}_
+#### Code Review Exercise for Epicodus, 01.20.2017
 
-#### By _**{Caitlin Hines}**_
+#### By **Caitlin Hines**
 
 ## Description
 
-_{This website has a form that allows the user to enter a number and will then return a response. It will return 1 to the user's choosen number. It will replace numbers divisible by 3 with "ping", numbers divisible by 5 with "pong.", and numbers divisible by 15 with "pingpong."}_
+This website has a form that allows the user to enter a number and will then return a response. It will return 1 to the user's chosen number. It will replace numbers divisible by 3 with "ping", numbers divisible by 5 with "pong.", and numbers divisible by 15 with "pingpong."
 
 ## Setup/Installation Requirements
 
@@ -17,8 +17,11 @@ _{This website has a form that allows the user to enter a number and will then r
 
 ## Specs
 
-* _This is a great place_
-* _to list setup instructions_
+* It can count up to the provided number
+  * Example Input: 2
+  * Example Output: [1,2]
+
+*  to list setup instructions_
 * _in a simple_
 * _easy-to-understand_
 * _format_
