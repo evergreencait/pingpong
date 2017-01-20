@@ -1,7 +1,31 @@
 ul {
   padding-bottom: 100px;
+  color: white;
 }
 
 #pingpong {
   padding-top: 30px;
+}
+
+h1 {
+  font-family: 'Press Start 2p', cursive;
+  text-align: center;
+  font-size: 80px;
+}
+
+.jumbotron {
+  background-color: black;
+  color: #00FFFF;
+}
+
+body {
+  background-image: url("http://neondrivegame.com/images/background.jpg");
+}
+
+h3, p {
+  color: white;
+}
+
+.result {
+  color: white;
 }
