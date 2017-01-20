@@ -1,27 +1,36 @@
 //business logic
-  var pingPong = function(count) {
-    if (count) {
+  var pingPong = function(numberInput) {
+
+  // var countBy = function(numberInput) {
+    if (numberInput) {
       var answer = "";
-      for (var number = 1; number <= count; number+=1) {
+      for (var number = 1; number <= numberInput; number+=1) {
         answer += number + ", ";
       }
-      return answer;
     }
-    // if (number % 3 === 0) {
-    //   return answer "ping"
-    // }
-    // if (number % 5 === 0) {
-    //   return "pong"
-    // }
-    // if (number % 15 === 0) {
-    //   return "ping-pong"
-    // }
-  };
+  // }
+      return answer;
 
 
-
-
-
+//     var resultArray = [];
+//
+//     for (function(numberInput) {
+//     if (number % 3 === 0) {
+//       resultArray.push("ping");
+//     }
+//     if (number % 5 === 0) {
+//       resultArray.push("pong");
+//     }
+//     if (number % 15 === 0) {
+//         resultArray.push("ping-pong")
+//     }
+//     else {
+//         resultArray.push(answer);
+//     }
+//     var resultString = resultArray.join("");
+//     return resultString;
+// };
+};
 
 
 
@@ -36,6 +45,6 @@ $(document).ready(function(){
 
     $(".result").text(pingPong(numberInput));
 
-  
+
   });
 });
