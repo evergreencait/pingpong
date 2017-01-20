@@ -29,6 +29,14 @@ This website has a form that allows the user to enter a number and will then ret
   * Example: 10
   * Example: pong
 
+* It can replace numbers divisible with 5 with "pong"
+  * Example: 10
+  * Example: pong
+
+* It can replace numbers divisible with 15 with "pingpong"
+  * Example: 30
+  * Example: pingpong
+
 ## Support and contact details
 
 _{Contact: Caitlin Hines, caitlinhines@me.com}_
