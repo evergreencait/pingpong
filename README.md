@@ -21,8 +21,9 @@ This website has a form that allows the user to enter a number and will then ret
   * Example Input: 2
   * Example Output: [1,2]
 
-*  to list setup instructions_
-* _in a simple_
+*  It can replace numbers divisible by 3 with "ping"
+  * Example Input: 9
+  * Example Output: ping
 * _easy-to-understand_
 * _format_
 
