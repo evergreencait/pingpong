@@ -24,8 +24,10 @@ This website has a form that allows the user to enter a number and will then ret
 *  It can replace numbers divisible by 3 with "ping"
   * Example Input: 9
   * Example Output: ping
-* _easy-to-understand_
-* _format_
+
+* It can replace numbers divisible with 5 with "pong"
+  * Example: 10
+  * Example: pong
 
 ## Support and contact details
 
