@@ -9,7 +9,25 @@
       }
     }
   // }
-      return answer;
+ //  var divisibleBy = function(numberInput) {
+ //   var resultArray = [];
+ //
+ //   numberInput.forEach(function(number) {
+ //     if (number % 3 === 0){
+ //       resultArray.push("ping");
+ //     } else if (number % 5 === 0) {
+ //       resultArray.push("pong");
+ //     } else if (number % 15 === 0) {
+ //       resultArray.push("ping-pong")
+ //     }
+ //
+ //   });
+ //  };
+ // });
+ // 
+ //   var resultString = resultArray.join("");
+ //   return resultString;
+
 
 
 //     var resultArray = [];
