@@ -7,6 +7,7 @@
       for (var number = 1; number <= numberInput; number+=1) {
         answer += number + ", ";
       }
+      return answer
     }
   // }
  //  var divisibleBy = function(numberInput) {
@@ -24,7 +25,7 @@
  //   });
  //  };
  // });
- // 
+ //
  //   var resultString = resultArray.join("");
  //   return resultString;
 
