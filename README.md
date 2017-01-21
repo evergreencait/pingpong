@@ -12,7 +12,7 @@ This website has a form that allows the user to enter a number and will then ret
 
 * Clone this repository on to your desktop "https://github.com/evergreencait/pingpong.git"
 * Open the "index.html" in a web browser
-* Link to pages branch on github:
+* Link to pages branch on github: evergreencait.github.io/pingpong
 
 
 ## Specs
