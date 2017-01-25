@@ -23,15 +23,15 @@ This website has a form that allows the user to enter a number and will then ret
 
 *  It can replace numbers divisible by 3 with "ping"
   * Example Input: 9
-  * Example Output: ping
+  * Example Output: [1, 2, ping, 4, 5, 6, 7, 8, ping]
 
 * It can replace numbers divisible with 5 with "pong"
   * Example: 10
-  * Example: pong
+  * Example: [1, 2, 3, 4, pong, 6, 7, 8, 9, pong]
 
 * It can replace numbers divisible with 15 with "pingpong"
-  * Example: 30
-  * Example: ping-pong
+  * Example: 15
+  * Example: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, ping-pong]
 
 ## Support and contact details
 
