@@ -23,12 +23,13 @@ $(document).ready(function(){
   $("form#pingpong").submit(function(event){
     event.preventDefault();
     var numberInput = parseInt($("input#number").val());
-    var finalresultList = $(".result").text(pingPong(numberInput));
+    var finalresultList = pingPong(numberInput)
+
+    finalresultList.forEach(function(output) {
+    $("ul#resultsList").append("<li>" + output + "</li>");
 
 
-    $("ul#resultsList").append("<li>" + finalresultList + "</li>");
 
-
-
+    });
   });
 });
