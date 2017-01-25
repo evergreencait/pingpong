@@ -27,6 +27,8 @@ h3, p {
 }
 
 .result {
+  font-family: 'Press Start 2p', cursive;
   color: white;
   padding-top: 30px;
+  font-size: 18px
 }
