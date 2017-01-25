@@ -28,8 +28,6 @@ $(document).ready(function(){
     finalresultList.forEach(function(output) {
     $("ul#resultsList").append("<li>" + output + "</li>");
 
-
-
     });
   });
 });
